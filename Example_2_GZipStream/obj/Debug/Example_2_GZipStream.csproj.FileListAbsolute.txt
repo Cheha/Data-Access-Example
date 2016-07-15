@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_2_GZipStream\bin\Debug\Example_2_GZipStream.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_2_GZipStream\bin\Debug\Example_2_GZipStream.exe
+D:\Brain Academy\DataAccess_Examples\Example_2_GZipStream\bin\Debug\Example_2_GZipStream.pdb
+D:\Brain Academy\DataAccess_Examples\Example_2_GZipStream\obj\Debug\Example_2_GZipStream.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\Example_2_GZipStream\obj\Debug\Example_2_GZipStream.exe
+D:\Brain Academy\DataAccess_Examples\Example_2_GZipStream\obj\Debug\Example_2_GZipStream.pdb

@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_6_MemoryStream\obj\Debug\Example_6_MemoryStream.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\Example_6_MemoryStream\bin\Debug\Example_6_MemoryStream.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_6_MemoryStream\bin\Debug\Example_6_MemoryStream.exe
+D:\Brain Academy\DataAccess_Examples\Example_6_MemoryStream\bin\Debug\Example_6_MemoryStream.pdb
+D:\Brain Academy\DataAccess_Examples\Example_6_MemoryStream\obj\Debug\Example_6_MemoryStream.exe
+D:\Brain Academy\DataAccess_Examples\Example_6_MemoryStream\obj\Debug\Example_6_MemoryStream.pdb

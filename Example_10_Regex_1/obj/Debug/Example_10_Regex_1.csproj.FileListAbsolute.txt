@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_10_Regex_1\bin\Debug\Example_10_Regex_1.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_10_Regex_1\bin\Debug\Example_10_Regex_1.exe
+D:\Brain Academy\DataAccess_Examples\Example_10_Regex_1\bin\Debug\Example_10_Regex_1.pdb
+D:\Brain Academy\DataAccess_Examples\Example_10_Regex_1\obj\Debug\Example_10_Regex_1.exe
+D:\Brain Academy\DataAccess_Examples\Example_10_Regex_1\obj\Debug\Example_10_Regex_1.pdb

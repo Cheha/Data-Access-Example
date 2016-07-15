@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_11_MatchCollection\bin\Debug\Example_11_MatchCollection.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_11_MatchCollection\bin\Debug\Example_11_MatchCollection.exe
+D:\Brain Academy\DataAccess_Examples\Example_11_MatchCollection\bin\Debug\Example_11_MatchCollection.pdb
+D:\Brain Academy\DataAccess_Examples\Example_11_MatchCollection\obj\Debug\Example_11_MatchCollection.exe
+D:\Brain Academy\DataAccess_Examples\Example_11_MatchCollection\obj\Debug\Example_11_MatchCollection.pdb
+D:\Brain Academy\DataAccess_Examples\Example_11_MatchCollection\obj\Debug\Example_11_MatchCollection.csprojResolveAssemblyReference.cache

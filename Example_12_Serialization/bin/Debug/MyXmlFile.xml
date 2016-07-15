@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<DataSerializationClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IntValue>4</IntValue>
+  <DoubleValue>5.5</DoubleValue>
+  <StringValue>Hello</StringValue>
+</DataSerializationClass>

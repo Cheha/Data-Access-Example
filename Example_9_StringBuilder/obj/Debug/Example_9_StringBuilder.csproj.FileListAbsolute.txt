@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_9_StringBuilder\bin\Debug\Example_9_StringBuilder.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_9_StringBuilder\bin\Debug\Example_9_StringBuilder.exe
+D:\Brain Academy\DataAccess_Examples\Example_9_StringBuilder\bin\Debug\Example_9_StringBuilder.pdb
+D:\Brain Academy\DataAccess_Examples\Example_9_StringBuilder\obj\Debug\Example_9_StringBuilder.exe
+D:\Brain Academy\DataAccess_Examples\Example_9_StringBuilder\obj\Debug\Example_9_StringBuilder.pdb

@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_5_BinaryReadWrite\bin\Debug\Example_5_BinaryReadWrite.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_5_BinaryReadWrite\bin\Debug\Example_5_BinaryReadWrite.exe
+D:\Brain Academy\DataAccess_Examples\Example_5_BinaryReadWrite\bin\Debug\Example_5_BinaryReadWrite.pdb
+D:\Brain Academy\DataAccess_Examples\Example_5_BinaryReadWrite\obj\Debug\Example_5_BinaryReadWrite.exe
+D:\Brain Academy\DataAccess_Examples\Example_5_BinaryReadWrite\obj\Debug\Example_5_BinaryReadWrite.pdb

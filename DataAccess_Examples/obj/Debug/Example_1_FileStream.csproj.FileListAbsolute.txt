@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\DataAccess_Examples\bin\Debug\DataAccess_Examples.exe.config
+D:\Brain Academy\DataAccess_Examples\DataAccess_Examples\bin\Debug\DataAccess_Examples.exe
+D:\Brain Academy\DataAccess_Examples\DataAccess_Examples\bin\Debug\DataAccess_Examples.pdb
+D:\Brain Academy\DataAccess_Examples\DataAccess_Examples\obj\Debug\Example_1_FileStream.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\DataAccess_Examples\obj\Debug\DataAccess_Examples.exe
+D:\Brain Academy\DataAccess_Examples\DataAccess_Examples\obj\Debug\DataAccess_Examples.pdb

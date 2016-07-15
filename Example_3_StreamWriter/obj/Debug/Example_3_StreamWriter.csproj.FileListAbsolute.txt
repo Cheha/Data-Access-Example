@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_3_StreamWriter\bin\Debug\Example_3_StreamWriter.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_3_StreamWriter\bin\Debug\Example_3_StreamWriter.exe
+D:\Brain Academy\DataAccess_Examples\Example_3_StreamWriter\bin\Debug\Example_3_StreamWriter.pdb
+D:\Brain Academy\DataAccess_Examples\Example_3_StreamWriter\obj\Debug\Example_3_StreamWriter.exe
+D:\Brain Academy\DataAccess_Examples\Example_3_StreamWriter\obj\Debug\Example_3_StreamWriter.pdb
+D:\Brain Academy\DataAccess_Examples\Example_3_StreamWriter\obj\Debug\Example_3_StreamWriter.csprojResolveAssemblyReference.cache

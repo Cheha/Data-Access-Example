@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\bin\Debug\Example_8_StringFormat.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\bin\Debug\Example_8_StringFormat.exe
+D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\bin\Debug\Example_8_StringFormat.pdb
+D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\obj\Debug\Example_8_StringFormat.exe
+D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\obj\Debug\Example_8_StringFormat.pdb

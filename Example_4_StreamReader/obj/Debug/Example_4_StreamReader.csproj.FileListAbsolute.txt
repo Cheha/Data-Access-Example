@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_4_StreamReader\bin\Debug\Example_4_StreamReader.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_4_StreamReader\bin\Debug\Example_4_StreamReader.exe
+D:\Brain Academy\DataAccess_Examples\Example_4_StreamReader\bin\Debug\Example_4_StreamReader.pdb
+D:\Brain Academy\DataAccess_Examples\Example_4_StreamReader\obj\Debug\Example_4_StreamReader.exe
+D:\Brain Academy\DataAccess_Examples\Example_4_StreamReader\obj\Debug\Example_4_StreamReader.pdb
