@@ -16,7 +16,7 @@ namespace Example_1_FileStream
                 using (FileStream fileStr = File.Open("Hello.txt", FileMode.Create))
                 {
                     string message = "Hello I/O";
-                    byte[] message_bytes = Encoding.Default.GetBytes(message);
+                    byte[] message_bytes = Encoding.ASCII.GetBytes(message);
                     fileStr.Write(message_bytes, 0, message_bytes.Length);
                     fileStr.Position = 0;
                     Console.WriteLine("Array of bytes: ");

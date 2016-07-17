@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_14_StringWriterReader\bin\Debug\Example_14_StringWriterReader.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_14_StringWriterReader\bin\Debug\Example_14_StringWriterReader.exe
+D:\Brain Academy\DataAccess_Examples\Example_14_StringWriterReader\bin\Debug\Example_14_StringWriterReader.pdb
+D:\Brain Academy\DataAccess_Examples\Example_14_StringWriterReader\obj\Debug\Example_14_StringWriterReader.exe
+D:\Brain Academy\DataAccess_Examples\Example_14_StringWriterReader\obj\Debug\Example_14_StringWriterReader.pdb

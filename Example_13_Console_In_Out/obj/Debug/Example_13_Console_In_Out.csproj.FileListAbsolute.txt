@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_13_Console_In_Out\bin\Debug\Example_13_Console_In_Out.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_13_Console_In_Out\bin\Debug\Example_13_Console_In_Out.exe
+D:\Brain Academy\DataAccess_Examples\Example_13_Console_In_Out\bin\Debug\Example_13_Console_In_Out.pdb
+D:\Brain Academy\DataAccess_Examples\Example_13_Console_In_Out\obj\Debug\Example_13_Console_In_Out.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\Example_13_Console_In_Out\obj\Debug\Example_13_Console_In_Out.exe
+D:\Brain Academy\DataAccess_Examples\Example_13_Console_In_Out\obj\Debug\Example_13_Console_In_Out.pdb
