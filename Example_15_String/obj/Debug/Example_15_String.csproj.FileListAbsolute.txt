@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_15_String\bin\Debug\Example_15_String.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_15_String\bin\Debug\Example_15_String.exe
+D:\Brain Academy\DataAccess_Examples\Example_15_String\bin\Debug\Example_15_String.pdb
+D:\Brain Academy\DataAccess_Examples\Example_15_String\obj\Debug\Example_15_String.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\Example_15_String\obj\Debug\Example_15_String.exe
+D:\Brain Academy\DataAccess_Examples\Example_15_String\obj\Debug\Example_15_String.pdb
