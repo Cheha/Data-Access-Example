@@ -11,6 +11,7 @@ namespace Example_7_Asynhronous
     {
         static void Main(string[] args)
         {
+            Wrt();
         }
 
         static Task Wrt() {

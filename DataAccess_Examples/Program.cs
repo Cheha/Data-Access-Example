@@ -11,8 +11,6 @@ namespace Example_1_FileStream
     {
         static void Main(string[] args)
         {
-            try
-            {
                 using (FileStream fileStr = File.Open("Hello.txt", FileMode.Create))
                 {
                     string message = "Hello I/O";
@@ -32,10 +30,7 @@ namespace Example_1_FileStream
                     Console.WriteLine(Encoding.Default.GetString(message_from_file));
                     Console.ReadLine();
                 }
-            }
-            catch (Exception ex) {
-                Console.WriteLine(ex.Message);
-            }
+           
         }
     }
 }

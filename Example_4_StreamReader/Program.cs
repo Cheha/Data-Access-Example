@@ -11,7 +11,8 @@ namespace Example_4_StreamReader
     {
         static void Main(string[] args)
         {
-            using (StreamWriter stWriter = new StreamWriter("Hello_StreamWriter_lesson.txt"))
+            using (StreamWriter stWriter = 
+                new StreamWriter("Hello_StreamWriter_lesson.txt"))
             {
                 stWriter.Write("Hello");
                 stWriter.WriteLine("Hello line");
@@ -27,9 +28,9 @@ namespace Example_4_StreamReader
             }
             // Get data from file directly using StreamReader
             using (StreamReader stReader = new StreamReader("Hello_StreamWriter_lesson.txt", Encoding.Default)) {
-                char[] charArr = new char[11];
-                stReader.Read(charArr, 0, 8);
-                Console.WriteLine(charArr);
+                //char[] charArr = new char[11];
+                //stReader.Read(charArr, 0, 8);
+                Console.WriteLine(stReader.ReadToEnd());
             }
             Console.ReadLine();
         }

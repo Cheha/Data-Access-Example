@@ -1,3 +1,2 @@
 HelloHello line
-Hello new line
- !
+Hello new line !
