@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_27_UpdateDataUsingDataAdapter\bin\Debug\Example_27_UpdateDataUsingDataAdapter.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_27_UpdateDataUsingDataAdapter\bin\Debug\Example_27_UpdateDataUsingDataAdapter.exe
+D:\Brain Academy\DataAccess_Examples\Example_27_UpdateDataUsingDataAdapter\bin\Debug\Example_27_UpdateDataUsingDataAdapter.pdb
+D:\Brain Academy\DataAccess_Examples\Example_27_UpdateDataUsingDataAdapter\obj\Debug\Example_27_UpdateDataUsingDataAdapter.exe
+D:\Brain Academy\DataAccess_Examples\Example_27_UpdateDataUsingDataAdapter\obj\Debug\Example_27_UpdateDataUsingDataAdapter.pdb

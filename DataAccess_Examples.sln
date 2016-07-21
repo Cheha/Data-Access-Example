@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_23_ExecuteNonQuery"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_24_ExecuteScalar", "Example_24_ExecuteScalar\Example_24_ExecuteScalar.csproj", "{BD29F1A7-8948-4189-A969-1D050D4B9F2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_26_DataAdapter", "Example_26_DataAdapter\Example_26_DataAdapter.csproj", "{0E03CA80-2E97-4919-9F37-91EB7C2EF849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_27_UpdateDataUsingDataAdapter", "Example_27_UpdateDataUsingDataAdapter\Example_27_UpdateDataUsingDataAdapter.csproj", "{8A3035BC-147B-42D5-B6C1-05E185200CAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +143,14 @@ Global
 		{BD29F1A7-8948-4189-A969-1D050D4B9F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD29F1A7-8948-4189-A969-1D050D4B9F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD29F1A7-8948-4189-A969-1D050D4B9F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E03CA80-2E97-4919-9F37-91EB7C2EF849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E03CA80-2E97-4919-9F37-91EB7C2EF849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E03CA80-2E97-4919-9F37-91EB7C2EF849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E03CA80-2E97-4919-9F37-91EB7C2EF849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3035BC-147B-42D5-B6C1-05E185200CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3035BC-147B-42D5-B6C1-05E185200CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3035BC-147B-42D5-B6C1-05E185200CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3035BC-147B-42D5-B6C1-05E185200CAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
