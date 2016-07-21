@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_16_StringComparison
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_17_Escape_Sequences", "Example_17_Escape_Sequences\Example_17_Escape_Sequences.csproj", "{B685FD35-30D6-4778-8399-671D9725F8BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_20_SqlConnection", "Example_20_SqlConnection\Example_20_SqlConnection.csproj", "{ABCB824B-30C1-46CC-8650-0325932F5646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_21_SqlCommand", "Example_21_SqlCommand\Example_21_SqlCommand.csproj", "{BFF8967E-AB9D-40A0-AC10-35EDDFC32191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +113,14 @@ Global
 		{B685FD35-30D6-4778-8399-671D9725F8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B685FD35-30D6-4778-8399-671D9725F8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B685FD35-30D6-4778-8399-671D9725F8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCB824B-30C1-46CC-8650-0325932F5646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCB824B-30C1-46CC-8650-0325932F5646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCB824B-30C1-46CC-8650-0325932F5646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCB824B-30C1-46CC-8650-0325932F5646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF8967E-AB9D-40A0-AC10-35EDDFC32191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF8967E-AB9D-40A0-AC10-35EDDFC32191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF8967E-AB9D-40A0-AC10-35EDDFC32191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF8967E-AB9D-40A0-AC10-35EDDFC32191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

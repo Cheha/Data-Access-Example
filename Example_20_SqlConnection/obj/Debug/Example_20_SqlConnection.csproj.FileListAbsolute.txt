@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_20_SqlConnection\bin\Debug\Example_20_SqlConnection.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_20_SqlConnection\bin\Debug\Example_20_SqlConnection.exe
+D:\Brain Academy\DataAccess_Examples\Example_20_SqlConnection\bin\Debug\Example_20_SqlConnection.pdb
+D:\Brain Academy\DataAccess_Examples\Example_20_SqlConnection\obj\Debug\Example_20_SqlConnection.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\Example_20_SqlConnection\obj\Debug\Example_20_SqlConnection.exe
+D:\Brain Academy\DataAccess_Examples\Example_20_SqlConnection\obj\Debug\Example_20_SqlConnection.pdb

@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_21_SqlCommand\bin\Debug\Example_21_SqlCommand.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_21_SqlCommand\bin\Debug\Example_21_SqlCommand.exe
+D:\Brain Academy\DataAccess_Examples\Example_21_SqlCommand\bin\Debug\Example_21_SqlCommand.pdb
+D:\Brain Academy\DataAccess_Examples\Example_21_SqlCommand\obj\Debug\Example_21_SqlCommand.exe
+D:\Brain Academy\DataAccess_Examples\Example_21_SqlCommand\obj\Debug\Example_21_SqlCommand.pdb
