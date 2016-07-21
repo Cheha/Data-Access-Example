@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_20_SqlConnection", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_21_SqlCommand", "Example_21_SqlCommand\Example_21_SqlCommand.csproj", "{BFF8967E-AB9D-40A0-AC10-35EDDFC32191}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_22_AppConfig", "Example_22_AppConfig\Example_22_AppConfig.csproj", "{433D3CF7-12D8-44F8-8B6D-8D4A1D03F9FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{BFF8967E-AB9D-40A0-AC10-35EDDFC32191}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFF8967E-AB9D-40A0-AC10-35EDDFC32191}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFF8967E-AB9D-40A0-AC10-35EDDFC32191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433D3CF7-12D8-44F8-8B6D-8D4A1D03F9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433D3CF7-12D8-44F8-8B6D-8D4A1D03F9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433D3CF7-12D8-44F8-8B6D-8D4A1D03F9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433D3CF7-12D8-44F8-8B6D-8D4A1D03F9FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

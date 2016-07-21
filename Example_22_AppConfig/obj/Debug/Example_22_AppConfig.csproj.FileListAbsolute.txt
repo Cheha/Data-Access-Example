@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_22_AppConfig\bin\Debug\Example_22_AppConfig.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_22_AppConfig\bin\Debug\Example_22_AppConfig.exe
+D:\Brain Academy\DataAccess_Examples\Example_22_AppConfig\bin\Debug\Example_22_AppConfig.pdb
+D:\Brain Academy\DataAccess_Examples\Example_22_AppConfig\obj\Debug\Example_22_AppConfig.exe
+D:\Brain Academy\DataAccess_Examples\Example_22_AppConfig\obj\Debug\Example_22_AppConfig.pdb
