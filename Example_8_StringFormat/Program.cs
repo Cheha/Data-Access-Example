@@ -10,13 +10,14 @@ namespace Example_8_StringFormat
     {
         static void Main(string[] args)
         {
+            // "{2,10:G}", 4
             string someString = String.Format("0x{0:X} {0:E} {0:N}", Int64.MaxValue);
             Console.WriteLine(someString);
             string[] fnames = { "Ivan", "Petro", "Sydor" };
-            Console.WriteLine("{0,-20}\n", "FirstName", "Last Name");
+            Console.WriteLine("{0,20}\n", "FirstName", "Last Name");
             for (int ctr = 0; ctr < fnames.Length; ctr++)
             {
-                Console.WriteLine("{0,-20}", fnames[ctr]);
+                Console.WriteLine("{0,20}", fnames[ctr]);
             }
             Console.ReadLine();
         }

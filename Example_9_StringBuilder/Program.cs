@@ -12,8 +12,8 @@ namespace Example_9_StringBuilder
         {
             // StringBuilder Append
             StringBuilder builder = new StringBuilder();
-            builder.Append("The list starts here:");
-            builder.AppendLine();
+            builder.Append("The list starts here:"); // Write
+            builder.AppendLine(); // WriteLine
             builder.Append("1 cat").AppendLine();
 
             // Get a reference to the StringBuilder's buffer content.
@@ -25,7 +25,7 @@ namespace Example_9_StringBuilder
             builder.Replace("an", "the"); // Replaces 'an' with 'the'.
             Console.WriteLine(builder.ToString());
             
-
+            
             // StringBuilder as Array
             builder = new StringBuilder();
             builder.Append("cat");

@@ -13,7 +13,7 @@ namespace Example_15_String
             // String Clone
             string firstString = "First string";
             object secondString = firstString.Clone();
-            
+
             Console.WriteLine("String clone resut: {0}", secondString);
             Console.WriteLine(firstString.Equals(secondString.ToString()));
             Console.WriteLine("----------------");
@@ -21,13 +21,14 @@ namespace Example_15_String
             // < 0 - string A goes first
             // > 0 - string B goes first
             string compareString = "Compare string";
-            Console.WriteLine("String Compare result: {0}", String.Compare(firstString, compareString, true));
+            Console.WriteLine("String Compare result: {0}", String.Compare(firstString,
+                compareString, true));
             Console.WriteLine("----------------");
 
             // String Concat
             string x = "Hello";
             string y = "World";
-            Console.WriteLine("String Concat result: {0}", String.Concat(x,y));
+            Console.WriteLine("String Concat result: {0}", String.Concat(x, y));
             Console.WriteLine("----------------");
 
             // String Contains
@@ -43,7 +44,8 @@ namespace Example_15_String
 
             // String IndexOf
             string searchStr = "str";
-            Console.WriteLine("String IndexOf result: {0}", firstString.IndexOf(searchStr));
+            Console.WriteLine("String IndexOf result: {0}", 
+                firstString.IndexOf(searchStr));
             Console.WriteLine("----------------");
 
             // String Insert
@@ -60,7 +62,8 @@ namespace Example_15_String
             // String Replace
             string searchString = "First";
             string replaceString = "Second";
-            Console.WriteLine("String Replace result: {0}", firstString.Replace(searchString, replaceString));
+            Console.WriteLine("String Replace result: {0}", 
+                firstString.Replace(searchString, replaceString));
             Console.WriteLine("----------------");
 
             // String Split
