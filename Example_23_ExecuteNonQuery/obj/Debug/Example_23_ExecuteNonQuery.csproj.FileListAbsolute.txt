@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_23_ExecuteNonQuery\bin\Debug\Example_23_ExecuteNonQuery.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_23_ExecuteNonQuery\bin\Debug\Example_23_ExecuteNonQuery.exe
+D:\Brain Academy\DataAccess_Examples\Example_23_ExecuteNonQuery\bin\Debug\Example_23_ExecuteNonQuery.pdb
+D:\Brain Academy\DataAccess_Examples\Example_23_ExecuteNonQuery\obj\Debug\Example_23_ExecuteNonQuery.exe
+D:\Brain Academy\DataAccess_Examples\Example_23_ExecuteNonQuery\obj\Debug\Example_23_ExecuteNonQuery.pdb
