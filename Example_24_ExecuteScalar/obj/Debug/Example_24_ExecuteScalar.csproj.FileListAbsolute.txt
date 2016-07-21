@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_24_ExecuteScalar\bin\Debug\Example_24_ExecuteScalar.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_24_ExecuteScalar\bin\Debug\Example_24_ExecuteScalar.exe
+D:\Brain Academy\DataAccess_Examples\Example_24_ExecuteScalar\bin\Debug\Example_24_ExecuteScalar.pdb
+D:\Brain Academy\DataAccess_Examples\Example_24_ExecuteScalar\obj\Debug\Example_24_ExecuteScalar.exe
+D:\Brain Academy\DataAccess_Examples\Example_24_ExecuteScalar\obj\Debug\Example_24_ExecuteScalar.pdb
