@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_28_SerializingAsXML\bin\Debug\Example_28_SerializingAsXML.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_28_SerializingAsXML\bin\Debug\Example_28_SerializingAsXML.exe
+D:\Brain Academy\DataAccess_Examples\Example_28_SerializingAsXML\bin\Debug\Example_28_SerializingAsXML.pdb
+D:\Brain Academy\DataAccess_Examples\Example_28_SerializingAsXML\obj\Debug\Example_28_SerializingAsXML.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\Example_28_SerializingAsXML\obj\Debug\Example_28_SerializingAsXML.exe
+D:\Brain Academy\DataAccess_Examples\Example_28_SerializingAsXML\obj\Debug\Example_28_SerializingAsXML.pdb
