@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_29_InMemoryRelationships\bin\Debug\Example_29_InMemoryRelationships.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_29_InMemoryRelationships\bin\Debug\Example_29_InMemoryRelationships.exe
+D:\Brain Academy\DataAccess_Examples\Example_29_InMemoryRelationships\bin\Debug\Example_29_InMemoryRelationships.pdb
+D:\Brain Academy\DataAccess_Examples\Example_29_InMemoryRelationships\obj\Debug\Example_29_InMemoryRelationships.exe
+D:\Brain Academy\DataAccess_Examples\Example_29_InMemoryRelationships\obj\Debug\Example_29_InMemoryRelationships.pdb

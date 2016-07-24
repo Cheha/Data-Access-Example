@@ -3,3 +3,8 @@ D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\bin\Debug\Example_8_
 D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\bin\Debug\Example_8_StringFormat.pdb
 D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\obj\Debug\Example_8_StringFormat.exe
 D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\obj\Debug\Example_8_StringFormat.pdb
+D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\bin\Debug\EntityFramework.dll
+D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\bin\Debug\EntityFramework.SqlServer.dll
+D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\bin\Debug\EntityFramework.xml
+D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\bin\Debug\EntityFramework.SqlServer.xml
+D:\Brain Academy\DataAccess_Examples\Example_8_StringFormat\obj\Debug\Example_8_StringFormat.csprojResolveAssemblyReference.cache

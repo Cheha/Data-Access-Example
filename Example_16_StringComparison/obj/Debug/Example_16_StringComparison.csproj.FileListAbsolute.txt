@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_16_StringComparison\bin\Debug\Example_16_StringComparison.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_16_StringComparison\bin\Debug\Example_16_StringComparison.exe
+D:\Brain Academy\DataAccess_Examples\Example_16_StringComparison\bin\Debug\Example_16_StringComparison.pdb
+D:\Brain Academy\DataAccess_Examples\Example_16_StringComparison\obj\Debug\Example_16_StringComparison.exe
+D:\Brain Academy\DataAccess_Examples\Example_16_StringComparison\obj\Debug\Example_16_StringComparison.pdb

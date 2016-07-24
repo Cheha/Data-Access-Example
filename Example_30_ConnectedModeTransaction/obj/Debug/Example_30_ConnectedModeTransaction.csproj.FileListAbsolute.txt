@@ -1,1 +1,5 @@
 D:\Brain Academy\DataAccess_Examples\Example_30_ConnectedModeTransaction\bin\Debug\Example_30_ConnectedModeTransaction.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_30_ConnectedModeTransaction\bin\Debug\Example_30_ConnectedModeTransaction.exe
+D:\Brain Academy\DataAccess_Examples\Example_30_ConnectedModeTransaction\bin\Debug\Example_30_ConnectedModeTransaction.pdb
+D:\Brain Academy\DataAccess_Examples\Example_30_ConnectedModeTransaction\obj\Debug\Example_30_ConnectedModeTransaction.exe
+D:\Brain Academy\DataAccess_Examples\Example_30_ConnectedModeTransaction\obj\Debug\Example_30_ConnectedModeTransaction.pdb

@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_17_Escape_Sequences\bin\Debug\Example_17_Escape_Sequences.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_17_Escape_Sequences\bin\Debug\Example_17_Escape_Sequences.exe
+D:\Brain Academy\DataAccess_Examples\Example_17_Escape_Sequences\bin\Debug\Example_17_Escape_Sequences.pdb
+D:\Brain Academy\DataAccess_Examples\Example_17_Escape_Sequences\obj\Debug\Example_17_Escape_Sequences.exe
+D:\Brain Academy\DataAccess_Examples\Example_17_Escape_Sequences\obj\Debug\Example_17_Escape_Sequences.pdb

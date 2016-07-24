@@ -1,0 +1,10 @@
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\Example_32_EFCodeFirst.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\Example_32_EFCodeFirst.exe
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\Example_32_EFCodeFirst.pdb
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\obj\Debug\Example_32_EFCodeFirst.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\obj\Debug\Example_32_EFCodeFirst.exe
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\obj\Debug\Example_32_EFCodeFirst.pdb
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\EntityFramework.dll
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\EntityFramework.xml
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
