@@ -1,0 +1,1 @@
+D:\Brain Academy\DataAccess_Examples\Example_30_ConnectedModeTransaction\bin\Debug\Example_30_ConnectedModeTransaction.exe.config
