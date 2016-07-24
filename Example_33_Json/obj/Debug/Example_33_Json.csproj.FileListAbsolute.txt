@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_33_Json\bin\Debug\Example_33_Json.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_33_Json\bin\Debug\Example_33_Json.exe
+D:\Brain Academy\DataAccess_Examples\Example_33_Json\bin\Debug\Example_33_Json.pdb
+D:\Brain Academy\DataAccess_Examples\Example_33_Json\obj\Debug\Example_33_Json.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\Example_33_Json\obj\Debug\Example_33_Json.exe
+D:\Brain Academy\DataAccess_Examples\Example_33_Json\obj\Debug\Example_33_Json.pdb
