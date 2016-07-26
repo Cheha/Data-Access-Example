@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F5D313AA-73CC-4818-B07A-B5F91E8DA0BC}</ProjectGuid>
+    <ProjectGuid>{BC88530A-CC08-4760-B7B3-032C05CAAE74}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Example_39_Linq_Extension_methods</RootNamespace>
-    <AssemblyName>Example_39_Linq_Extension_methods</AssemblyName>
+    <RootNamespace>Example_40_Query_Execution</RootNamespace>
+    <AssemblyName>Example_40_Query_Execution</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

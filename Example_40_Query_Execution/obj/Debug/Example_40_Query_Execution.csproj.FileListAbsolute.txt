@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_40_Query_Execution\bin\Debug\Example_40_Query_Execution.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_40_Query_Execution\bin\Debug\Example_40_Query_Execution.exe
+D:\Brain Academy\DataAccess_Examples\Example_40_Query_Execution\bin\Debug\Example_40_Query_Execution.pdb
+D:\Brain Academy\DataAccess_Examples\Example_40_Query_Execution\obj\Debug\Example_40_Query_Execution.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\Example_40_Query_Execution\obj\Debug\Example_40_Query_Execution.exe
+D:\Brain Academy\DataAccess_Examples\Example_40_Query_Execution\obj\Debug\Example_40_Query_Execution.pdb
