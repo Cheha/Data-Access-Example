@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_39_Linq_Extension_m
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_40_Query_Execution", "Example_40_Query_Execution\Example_40_Query_Execution.csproj", "{BC88530A-CC08-4760-B7B3-032C05CAAE74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_41_LinqToXml", "Example_41_LinqToXml\Example_41_LinqToXml.csproj", "{3B930142-3284-4F26-9E2C-845DE3AA4C52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -223,6 +225,10 @@ Global
 		{BC88530A-CC08-4760-B7B3-032C05CAAE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC88530A-CC08-4760-B7B3-032C05CAAE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC88530A-CC08-4760-B7B3-032C05CAAE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B930142-3284-4F26-9E2C-845DE3AA4C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B930142-3284-4F26-9E2C-845DE3AA4C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B930142-3284-4F26-9E2C-845DE3AA4C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B930142-3284-4F26-9E2C-845DE3AA4C52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

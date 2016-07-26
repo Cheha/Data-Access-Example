@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <contact>
+    <firstName>George</firstName>
+    <lastName>Springwater</lastName>
+    <age>33</age>
+  </contact>
+  <contact>
+    <firstName>Samantha</firstName>
+    <lastName>Smith</lastName>
+    <age>33</age>
+  </contact>
+  <contact>
+    <firstName>Bob</firstName>
+    <lastName>Walters</lastName>
+    <age>33</age>
+  </contact>
+  <contact>
+    <firstName>Barbara</firstName>
+    <lastName>Lucas</lastName>
+    <age>33</age>
+  </contact>
+</library>

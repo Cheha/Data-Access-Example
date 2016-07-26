@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_41_LinqToXml\bin\Debug\Example_41_LinqToXml.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_41_LinqToXml\bin\Debug\Example_41_LinqToXml.exe
+D:\Brain Academy\DataAccess_Examples\Example_41_LinqToXml\bin\Debug\Example_41_LinqToXml.pdb
+D:\Brain Academy\DataAccess_Examples\Example_41_LinqToXml\obj\Debug\Example_41_LinqToXml.exe
+D:\Brain Academy\DataAccess_Examples\Example_41_LinqToXml\obj\Debug\Example_41_LinqToXml.pdb
