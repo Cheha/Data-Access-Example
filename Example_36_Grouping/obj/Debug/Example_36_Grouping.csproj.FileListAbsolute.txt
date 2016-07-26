@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_36_Grouping\bin\Debug\Example_36_Grouping.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_36_Grouping\bin\Debug\Example_36_Grouping.exe
+D:\Brain Academy\DataAccess_Examples\Example_36_Grouping\bin\Debug\Example_36_Grouping.pdb
+D:\Brain Academy\DataAccess_Examples\Example_36_Grouping\obj\Debug\Example_36_Grouping.exe
+D:\Brain Academy\DataAccess_Examples\Example_36_Grouping\obj\Debug\Example_36_Grouping.pdb
