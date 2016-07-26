@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_35_Sorting\bin\Debug\Example_35_Sorting.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_35_Sorting\bin\Debug\Example_35_Sorting.exe
+D:\Brain Academy\DataAccess_Examples\Example_35_Sorting\bin\Debug\Example_35_Sorting.pdb
+D:\Brain Academy\DataAccess_Examples\Example_35_Sorting\obj\Debug\Example_35_Sorting.exe
+D:\Brain Academy\DataAccess_Examples\Example_35_Sorting\obj\Debug\Example_35_Sorting.pdb
