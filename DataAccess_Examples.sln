@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_32_EFCodeFirst", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_33_Json", "Example_33_Json\Example_33_Json.csproj", "{3C1BC41E-01B8-434E-AB39-72B61DFC8045}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_34_Simple_LINQ", "Example_34_Simple_LINQ\Example_34_Simple_LINQ.csproj", "{D841B4C6-9B25-45F2-8219-AB7232325B4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,10 @@ Global
 		{3C1BC41E-01B8-434E-AB39-72B61DFC8045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C1BC41E-01B8-434E-AB39-72B61DFC8045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C1BC41E-01B8-434E-AB39-72B61DFC8045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D841B4C6-9B25-45F2-8219-AB7232325B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D841B4C6-9B25-45F2-8219-AB7232325B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D841B4C6-9B25-45F2-8219-AB7232325B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D841B4C6-9B25-45F2-8219-AB7232325B4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

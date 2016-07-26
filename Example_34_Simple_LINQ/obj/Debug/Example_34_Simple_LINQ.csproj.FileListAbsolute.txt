@@ -1,0 +1,6 @@
+D:\Brain Academy\DataAccess_Examples\Example_34_Simple_LINQ\bin\Debug\Example_34_Simple_LINQ.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_34_Simple_LINQ\bin\Debug\Example_34_Simple_LINQ.exe
+D:\Brain Academy\DataAccess_Examples\Example_34_Simple_LINQ\bin\Debug\Example_34_Simple_LINQ.pdb
+D:\Brain Academy\DataAccess_Examples\Example_34_Simple_LINQ\obj\Debug\Example_34_Simple_LINQ.csprojResolveAssemblyReference.cache
+D:\Brain Academy\DataAccess_Examples\Example_34_Simple_LINQ\obj\Debug\Example_34_Simple_LINQ.exe
+D:\Brain Academy\DataAccess_Examples\Example_34_Simple_LINQ\obj\Debug\Example_34_Simple_LINQ.pdb
