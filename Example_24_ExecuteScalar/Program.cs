@@ -18,6 +18,7 @@ namespace Example_24_ExecuteScalar
             using (SqlCommand command = new SqlCommand(query, connection))
             {
                 connection.Open();
+
                 int categoriesCount = (int)command.ExecuteScalar();
                 Console.WriteLine("We have {0} categories", categoriesCount);
             }

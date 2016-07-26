@@ -11,10 +11,11 @@ namespace Example_20_SqlConnection
     {
         static void Main(string[] args)
         {
-            string connectionString = "Data source = .; Initial Catalog = NORTHWND; Integrated Security = true";
+            string connectionString = @"Data source = .; 
+                Initial Catalog = NORTHWND; Integrated Security = SSPI";
 
             SqlConnection connection = new SqlConnection(connectionString);
-            connection.Open();            
+            connection.Open();           
         }
     }
 }

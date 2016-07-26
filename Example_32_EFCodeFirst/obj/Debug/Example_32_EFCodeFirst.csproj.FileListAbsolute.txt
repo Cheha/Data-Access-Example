@@ -8,3 +8,5 @@ D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\EntityFram
 D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
 D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\EntityFramework.xml
 D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\obj\Debug\Example_32_EFCodeFirst.Migrations.InitialCreate.resources
+D:\Brain Academy\DataAccess_Examples\Example_32_EFCodeFirst\obj\Debug\Example_32_EFCodeFirst.csproj.GenerateResource.Cache

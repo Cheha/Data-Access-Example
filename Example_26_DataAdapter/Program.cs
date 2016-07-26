@@ -15,7 +15,7 @@ namespace Example_26_DataAdapter
         {
             string connectionString = ConfigurationManager.ConnectionStrings["Nordwind"].ConnectionString;
 
-            SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM Categories", connectionString);
+            SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM Categories; SELECT * FROM Products", connectionString);
             DataSet dataSet = new DataSet();
             adapter.Fill(dataSet);
 
@@ -24,6 +24,12 @@ namespace Example_26_DataAdapter
                 string categoryName = row[1].ToString();
                 string description = row[2].ToString();
                 Console.WriteLine("{0}, {1}, {2}", categoryId, categoryName, description);
+            }
+
+            foreach (DataRow row in dataSet.Tables[1].Rows) {
+                string productName = row["ProductName"].ToString();
+                decimal unitPrice = (decimal)row["UnitPrice"];
+                Console.WriteLine("{0}, {1}", productName, unitPrice);
             }
             Console.ReadLine();
         }

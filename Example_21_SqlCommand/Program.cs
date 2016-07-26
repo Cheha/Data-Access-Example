@@ -11,7 +11,8 @@ namespace Example_21_SqlCommand
     {
         static void Main(string[] args)
         {
-            string connectionString = @"Data source = ALEX-PC\SQLEXPRESS; Initial Catalog = NORTHWND; Integrated Security = SSPI";
+            string connectionString = @"Data source = ALEX-PC\SQLEXPRESS;
+                Initial Catalog = NORTHWND; Integrated Security = SSPI";
             string query = "SELECT * FROM Categories";
             SqlConnection connection = new SqlConnection(connectionString);
             SqlCommand command = new SqlCommand(query, connection);

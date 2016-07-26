@@ -14,11 +14,12 @@ namespace Example_23_ExecuteNonQuery
         {
             string connectionString = ConfigurationManager.ConnectionStrings["Nordwind"].ConnectionString;
             string query = "INSERT INTO Categories (CategoryName, Description ) VALUES ('Chemistry', 'Soap')";
-            SqlConnection connection = new SqlConnection(connectionString);
-            using (SqlCommand command = new SqlCommand(query, connection))
-            {
-                connection.Open();
-                command.ExecuteNonQuery();   
+            using (SqlConnection connection = new SqlConnection(connectionString)) {
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    connection.Open();
+                    command.ExecuteNonQuery();
+                }
             }
             Console.WriteLine("Insert was successfull");
             Console.ReadLine();

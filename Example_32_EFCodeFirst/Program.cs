@@ -13,22 +13,23 @@ namespace Example_32_EFCodeFirst
             using (var db = new DbContexts())
             {
                 #region Add Data
-                //var student = new Student() { Name = "Bill Gates"};
+                var student = new Student() { Name = "Bill Gates" };
 
-                //var math = new Subject() { Name = "Mathematics" };
-                //var physics = new Subject() { Name = "Physics" };
+                var math = new Subject() { Name = "Mathematics" };
+                var physics = new Subject() { Name = "Physics" };
 
-                //student.Subjects.Add(math);
-                //student.Subjects.Add(physics);
-
-                //db.Students.Add(student);
-                //db.SaveChanges();
+                student.Subjects.Add(math);
+                student.Subjects.Add(physics);
+                db.Students.Add(student);
+                db.SaveChanges();
+                Console.ReadLine();
                 #endregion
 
                 #region Querying
                 Console.WriteLine("Native SQL query");
                 var allSubjects = db.Subjects.SqlQuery("SELECT * FROM Subjects");
-                foreach (var subject in allSubjects) {
+                foreach (var subject in allSubjects)
+                {
                     Console.WriteLine(subject.Name);
                 }
 
@@ -41,24 +42,24 @@ namespace Example_32_EFCodeFirst
                 #endregion
 
                 #region Transaction
-                using (var dbTransaction = db.Database.BeginTransaction()) {
-                    try
-                    {
-                        var subjects = db.Subjects.ToList<Subject>();
-                        Console.WriteLine("Add new subject");
-                        db.Subjects.Add(new Subject { Name = "History", SubjectId = 3 });
-                        db.SaveChanges();
+                //using (var dbTransaction = db.Database.BeginTransaction()) {
+                //    try
+                //    {
+                //        var subjects = db.Subjects.ToList<Subject>();
+                //        Console.WriteLine("Add new subject");
+                //        db.Subjects.Add(new Subject { Name = "History", SubjectId = 3 });
+                //        db.SaveChanges();
 
-                        Console.WriteLine("Update existing subject");
-                        var subjectToUpdate = db.Subjects.Where(s => s.SubjectId == 2).FirstOrDefault<Subject>();
-                        db.SaveChanges();
-                        dbTransaction.Commit();
-                    }
-                    catch (Exception ex) {
-                        dbTransaction.Rollback();
-                    }
+                //        Console.WriteLine("Update existing subject");
+                //        var subjectToUpdate = db.Subjects.Where(s => s.SubjectId == 2).FirstOrDefault<Subject>();
+                //        db.SaveChanges();
+                //        dbTransaction.Commit();
+                //    }
+                //    catch (Exception ex) {
+                //        dbTransaction.Rollback();
+                //    }
                     
-                } 
+                //} 
                 #endregion
             }
         }

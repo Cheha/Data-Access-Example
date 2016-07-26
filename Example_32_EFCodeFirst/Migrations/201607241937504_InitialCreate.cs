@@ -8,7 +8,7 @@ namespace Example_32_EFCodeFirst.Migrations
         public override void Up()
         {
             CreateTable(
-                "dbo.Students",
+                "dbo.Student",
                 c => new
                     {
                         StudentId = c.Int(nullable: false, identity: true),
@@ -34,7 +34,7 @@ namespace Example_32_EFCodeFirst.Migrations
                     })
                 .PrimaryKey(t => new { t.Subject_SubjectId, t.Student_StudentId })
                 .ForeignKey("dbo.Subjects", t => t.Subject_SubjectId, cascadeDelete: true)
-                .ForeignKey("dbo.Students", t => t.Student_StudentId, cascadeDelete: true)
+                .ForeignKey("dbo.Student", t => t.Student_StudentId, cascadeDelete: true)
                 .Index(t => t.Subject_SubjectId)
                 .Index(t => t.Student_StudentId);
             
@@ -42,13 +42,13 @@ namespace Example_32_EFCodeFirst.Migrations
         
         public override void Down()
         {
-            DropForeignKey("dbo.SubjectStudents", "Student_StudentId", "dbo.Students");
+            DropForeignKey("dbo.SubjectStudents", "Student_StudentId", "dbo.Student");
             DropForeignKey("dbo.SubjectStudents", "Subject_SubjectId", "dbo.Subjects");
             DropIndex("dbo.SubjectStudents", new[] { "Student_StudentId" });
             DropIndex("dbo.SubjectStudents", new[] { "Subject_SubjectId" });
             DropTable("dbo.SubjectStudents");
             DropTable("dbo.Subjects");
-            DropTable("dbo.Students");
+            DropTable("dbo.Student");
         }
     }
 }
