@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_35_Sorting", "Examp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_36_Grouping", "Example_36_Grouping\Example_36_Grouping.csproj", "{7B237058-6067-474F-A225-3019B9E49D20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_37_Join", "Example_37_Join\Example_37_Join.csproj", "{3B8707AA-5823-4F4D-9D01-23E46CD0F28B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -199,6 +201,10 @@ Global
 		{7B237058-6067-474F-A225-3019B9E49D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B237058-6067-474F-A225-3019B9E49D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B237058-6067-474F-A225-3019B9E49D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8707AA-5823-4F4D-9D01-23E46CD0F28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8707AA-5823-4F4D-9D01-23E46CD0F28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8707AA-5823-4F4D-9D01-23E46CD0F28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8707AA-5823-4F4D-9D01-23E46CD0F28B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+D:\Brain Academy\DataAccess_Examples\Example_37_Join\bin\Debug\Example_37_Join.exe.config
+D:\Brain Academy\DataAccess_Examples\Example_37_Join\bin\Debug\Example_37_Join.exe
+D:\Brain Academy\DataAccess_Examples\Example_37_Join\bin\Debug\Example_37_Join.pdb
+D:\Brain Academy\DataAccess_Examples\Example_37_Join\obj\Debug\Example_37_Join.exe
+D:\Brain Academy\DataAccess_Examples\Example_37_Join\obj\Debug\Example_37_Join.pdb
